@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+input {
+  appearance: none;
+  outline: none;
+  border: none;
+  background: #eee;
+  color: #000;
+  width: 100%;
+  max-width: 300px;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  margin-right: 1rem;
+}
+
+button, a {
+  appearance: none;
+  outline: none;
+  border: none;
+  background: #EEE;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  color: #000;
+  font-size: 1.5rem;
+  line-height: 1;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+img {
+  display: block;
+  width: 100%;
+  max-width: 480px;
+  margin: 2rem auto;
+}
